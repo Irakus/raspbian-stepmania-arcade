@@ -1,3 +1,11 @@
+WARNING
+=====
+
+This builds with the unmaintained StepMania 5.2 code.
+_(Actually, it pulls from the HEAD of the `master` branch of StepMania, which at the time this was written, was unmaintained 5.2 code)_
+
+You probably don't want to use this. Go back to the `master` branch of _this_ repository!
+
 StepMania on Raspberry Pi
 =========================
 
